@@ -1,0 +1,11 @@
+{
+"name": "my-todolist",
+"version": "1.0.0",
+"description": "This will load my todolist",
+"scripts": {
+	"start": "harp server --port $PORT"
+},
+"dependencies": {
+	"harp": "x"
+ }
+}
